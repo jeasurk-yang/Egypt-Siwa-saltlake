@@ -1,6 +1,7 @@
-# Large binary files - use Git LFS or exclude
-*.tif
-*.tiff
+# Satellite images - copyright restricted, not included
+image/*.tif
+image/*.tiff
+image/*.png
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
